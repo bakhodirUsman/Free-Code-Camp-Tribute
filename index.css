@@ -1,0 +1,8 @@
+#img-div img {
+    width: 100%;
+    max-width: 1200px;
+    display: block;
+}
+#img-div{
+    background-color: grey;
+}
