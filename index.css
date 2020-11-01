@@ -3,6 +3,13 @@
     max-width: 1200px;
     display: block;
 }
-#img-div{
+body{
     background-color: grey;
+}
+
+#main-info{
+    background-color: floralwhite;
+    width: 100%;
+    display: block;
+    max-width: 1200px;
 }
